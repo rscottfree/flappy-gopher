@@ -18,8 +18,8 @@ import (
 	"log"
 	"time"
 
+	"github.com/veandco/go-sdl2/img"
 	"github.com/veandco/go-sdl2/sdl"
-	img "github.com/veandco/go-sdl2/sdl_image"
 )
 
 type scene struct {
